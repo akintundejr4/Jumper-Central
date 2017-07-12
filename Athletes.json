@@ -3,26 +3,26 @@
 "Athletes" : [
     {
         "Name": "Mutaz Essa Barshim",
-        "Age": 25, 
-        "Height": "1.95m",
-        "Weight": "145lbs",
+        "Age": 26, 
+        "Height": "1.88m",
+        "Weight": "143lbs",
         "Country": "Qatar",
-        "Sponsor": "Nike",
+        "Sponsors": ["Nike", "Red Bull", "Aspire Academy"],
         "Education": "TODO",
         "Coach": "TODO",
         "Personal Best": "2.43m", 
         "Approach Side": "Right", 
         "Facebook": "TODO", 
-        "Twitter": "TODO", 
+        "Twitter": "https://twitter.com/mutazbarshim", 
         "Instagram": "TODO", 
-        "IAAF-Profile": "TODO" 
+        "IAAF-Profile": "https://www.iaaf.org/athletes/qatar/mutaz-essa-barshim-253964" 
         
     },
     {
         "Name": "Donald Thomas",
-        "Age": 25, 
-        "Height": "1.95m",
-        "Weight": "165lbs",
+        "Age": 33, 
+        "Height": "1.90m",
+        "Weight": "179lbs",
         "Country": "Bahamas",
         "Sponsor": "Unknown",
         "Education": "TODO",
