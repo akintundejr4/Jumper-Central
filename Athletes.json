@@ -8,8 +8,7 @@
         "Weight": "143lbs",
         "Country": "Qatar",
         "Sponsors": ["Nike", "Red Bull", "Aspire Academy"],
-        "Education": "TODO",
-        "Coach": "TODO",
+        "Education": "Aspire Academy",
         "Personal-Best": "2.43m", 
         "Approach-Side": "Right", 
         "Facebook": "TODO", 
@@ -25,14 +24,13 @@
         "Weight": "179lbs",
         "Country": "Bahamas",
         "Sponsor": "Unknown",
-        "Education": "TODO",
-        "Coach": "TODO",
-        "Personal-Best": "2.38m", 
+        "Education": ["Lindenwood University, Auburn University"],
+        "Personal-Best": "2.37m", 
         "Approach-Side": "Right", 
         "Facebook": "TODO", 
         "Twitter": "TODO", 
         "Instagram": "TODO", 
-        "IAAF-Profile": "TODO" 
+        "IAAF-Profile": "https://www.iaaf.org/athletes/bahamas/donald-thomas-221630" 
     }
 ]
 
