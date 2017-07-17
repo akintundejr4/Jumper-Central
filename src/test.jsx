@@ -4,6 +4,8 @@ import '../styles/index.scss';
 export default class Test extends React.Component {
     render() {
         return (
+        <div id="container"> 
+            <img src={require('../images/resizedBackgroundHJ.jpg')}/> 
             <ol>
                 <li>
                     The first jumper
@@ -12,13 +14,10 @@ export default class Test extends React.Component {
                     The second jumper
                 </li>
 
-            </ol>    
+            </ol>
+        </div> 
         )
     }
 
-render() { 
-    return ( 
-        <img src={require('../images/sotomayor.jpg')}/> 
-    )
-}
+ 
 }
