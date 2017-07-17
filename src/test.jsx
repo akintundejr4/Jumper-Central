@@ -5,7 +5,7 @@ export default class Test extends React.Component {
 
     render() {
         return (
-            <div id="container">
+            <div class="container">
                 <img src={require('../images/resizedBackgroundHJ.jpg')}/>
                 <ol>
                     <li>
