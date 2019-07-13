@@ -1,5 +1,5 @@
 {
-  "Athletes": {
+  "High Jumpers": {
     "Mutaz Essa Barshim": [
       {
         "Name": "Mutaz Essa Barshim",
@@ -38,6 +38,50 @@
         "Twitter": "TODO",
         "Instagram": "TODO",
         "IAAF-Profile": "https://www.iaaf.org/athletes/bahamas/donald-thomas-221630"
+      }
+    ]
+  },
+  "Long Jumpers": {
+    "Luvo Manyoga": [
+      {
+        "Name": "TODO",
+        "Age": 26,
+        "Height": "TODO",
+        "Weight": "TODOs",
+        "Country": "TODOr",
+        "Sponsors": [
+          "TODO",
+          "TODOl",
+          "TODO"
+        ],
+        "Education": "TODO",
+        "Personal-Best": "TODO",
+        "Approach-Side": "TODO",
+        "Facebook": "TODO",
+        "Twitter": "TODO",
+        "Instagram": "TODO",
+        "IAAF-Profile": "TODO"
+      }
+    ],
+    "Juan Miguel Echevarria": [
+      {
+        "Name": "TODO",
+        "Age": 26,
+        "Height": "TODO",
+        "Weight": "TODO",
+        "Country": "TODO",
+        "Sponsors": [
+          "TODO",
+          "TODO",
+          "TODO"
+        ],
+        "Education": "TODO",
+        "Personal-Best": "TODO",
+        "Approach-Side": "TODO",
+        "Facebook": "TODO",
+        "Twitter": "TODO",
+        "Instagram": "TODO",
+        "IAAF-Profile": "TODO"
       }
     ]
   }
