@@ -1,38 +1,44 @@
-{ 
-
-"Athletes" : [
-    {
+{
+  "Athletes": {
+    "Mutaz Essa Barshim": [
+      {
         "Name": "Mutaz Essa Barshim",
-        "Age": 26, 
+        "Age": 26,
         "Height": "1.88m",
         "Weight": "143lbs",
         "Country": "Qatar",
-        "Sponsors": ["Nike", "Red Bull", "Aspire Academy"],
+        "Sponsors": [
+          "Nike",
+          "Red Bull",
+          "Aspire Academy"
+        ],
         "Education": "Aspire Academy",
-        "Personal-Best": "2.43m", 
-        "Approach-Side": "Right", 
-        "Facebook": "TODO", 
-        "Twitter": "https://twitter.com/mutazbarshim", 
-        "Instagram": "TODO", 
-        "IAAF-Profile": "https://www.iaaf.org/athletes/qatar/mutaz-essa-barshim-253964" 
-        
-    },
-    {
+        "Personal-Best": "2.43m",
+        "Approach-Side": "Right",
+        "Facebook": "TODO",
+        "Twitter": "https://twitter.com/mutazbarshim",
+        "Instagram": "TODO",
+        "IAAF-Profile": "https://www.iaaf.org/athletes/qatar/mutaz-essa-barshim-253964"
+      }
+    ],
+    "Donald Thomas": [
+      {
         "Name": "Donald Thomas",
-        "Age": 33, 
+        "Age": 33,
         "Height": "1.90m",
         "Weight": "179lbs",
         "Country": "Bahamas",
-        "Sponsor": "Unknown",
-        "Education": ["Lindenwood University, Auburn University"],
-        "Personal-Best": "2.37m", 
-        "Approach-Side": "Right", 
-        "Facebook": "TODO", 
-        "Twitter": "TODO", 
-        "Instagram": "TODO", 
-        "IAAF-Profile": "https://www.iaaf.org/athletes/bahamas/donald-thomas-221630" 
-    }
-]
-
-
-} 
+        "Sponsors": "Unknown",
+        "Education": [
+          "Lindenwood University, Auburn University"
+        ],
+        "Personal-Best": "2.37m",
+        "Approach-Side": "Right",
+        "Facebook": "TODO",
+        "Twitter": "TODO",
+        "Instagram": "TODO",
+        "IAAF-Profile": "https://www.iaaf.org/athletes/bahamas/donald-thomas-221630"
+      }
+    ]
+  }
+}
